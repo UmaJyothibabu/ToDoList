@@ -51,7 +51,7 @@ lForm.addEventListener("submit", (e) => {
       myModal.show();
 
       mbtn.addEventListener("click", () => {
-        location.replace("../main.html");
+        location.replace("main.html");
       });
     }
   });

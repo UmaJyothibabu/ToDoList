@@ -14,7 +14,7 @@ logout.addEventListener("click", () => {
   myModal.show();
 
   mbtn.addEventListener("click", () => {
-    location.replace("../index.html");
+    location.replace("index.html");
   });
 });
 // end of logging out
